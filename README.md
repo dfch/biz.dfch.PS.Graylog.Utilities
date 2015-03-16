@@ -1,6 +1,8 @@
 biz.dfch.PS.Graylog.Utilities
 =============================
 
+# WIP not ready for production
+
 Modules: biz.dfch.PS.Graylog.Utilities
 
 d-fens GmbH, General-Guisan-Strasse 6, CH-6300 Zug, Switzerland
